@@ -52,7 +52,7 @@ class MainScreen extends StatefulWidget {
 
 class _MainScreenState extends State<MainScreen> {
   int _currentIndex = 0;
-  String notificationMsg = "Waiting for notifications";
+  String notificationMsg = "В ожидании оповещалок....";
 
   @override
   void initState() {
