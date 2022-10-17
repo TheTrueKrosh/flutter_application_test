@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313123637423",
+    "project_id": "krosh-push-test",
+    "storage_bucket": "krosh-push-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313123637423:android:23752539003c168904ec5a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313123637423-o1bnqqkqlq7544crsq1imakjiekcivf7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9YzahVjn8QRCiXmerVOOE1TkpFFElkVQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313123637423-o1bnqqkqlq7544crsq1imakjiekcivf7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
